@@ -24,13 +24,13 @@ p {
 
 #p1 {
   background-color: #D59898;
-  position: absolute;
+  position: top right;
   top: 0;
   right: 0;
   font-weight: bold;
   height: 35px;
   width: 120px;
-  padding: 10px;
+  padding: 0px;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
 
